@@ -12,7 +12,7 @@ https://github.com/rruiz88###
 
 ### LinkedIn
 Provide a link to your LinkedIn account here.
-https://www.linkedin.com/in/roman-ruiz-61604848/
+https://www.linkedin.com/in/romaneruiz/
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
